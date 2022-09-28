@@ -20,7 +20,7 @@ In this repository, you can contribute by solving the excercises or issues that 
 
 
 
-
+delete-https://github.com/life-sync/Python
 
 
 
