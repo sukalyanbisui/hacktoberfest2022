@@ -125,12 +125,12 @@ This is how we write an internal script most of the time. Writing the JavaScript
 <!DOCTYPE html>
 <html>
   <head>
-    <title>30DaysOfScript:Internal Script</title>
+    <title>Script:Internal Script</title>
   </head>
   <body>
-    <button onclick="alert('Welcome to 30DaysOfJavaScript!');">Click Me</button>
+    <button onclick="alert('Welcome to JavaScript!');">Click Me</button>
     <script>
-      console.log('Welcome to 30DaysOfJavaScript')
+      console.log('Welcome to JavaScript')
     </script>
   </body>
 </html>
@@ -183,7 +183,7 @@ Open the browser console to see the output of the console.log()
 #### Multiple External Scripts
 
 We can also link multiple external JavaScript files to a web page.
-Create a helloworld.js file inside the 30DaysOfJS folder and write the following code.
+Create a helloworld.js file inside the JS folder and write the following code.
 
 ```js
 console.log('Hello, World!')
@@ -211,8 +211,8 @@ _Your main.js file should be below all other scripts_. It is very important to r
 We use _var_, _let_ and _const_ to declare a variable. The _var_ is functions scope, however _let_ and _const_ are block scope. In this challenge we use ES6 and above features of JavaScript. Avoid using _var_.
 
 ```js
-let firstName = 'Asabeneh'
-firstName = 'Eyob'
+let firstName = 'Jayanth'
+firstName = 'kumar'
 
 const PI = 3.14 // Not allowed to reassign PI to a new value
 // PI = 3.
@@ -832,7 +832,7 @@ console.log(fullStack[0]) // ["HTML", "CSS", "JS", "React", "Redux"]
 console.log(fullStack[1]) // ["Node", "Express", "MongoDB"]
 ```
 
-### 💻 Exercise
+### 💻 Exercise - Beginner(Easy)
 
 ##### Exercise: Level 1
 
@@ -874,7 +874,7 @@ const webTechs = [
 10. Print out each company
 
 
-##### Exercise: Level 2
+##### Exercise: Level 2 Beginner(Medium)
 
 1. Create a separate countries.js file and store the countries array into this file, create a separate file web_techs.js and store the webTechs array into this file. Access both file in main.js file
 1. First remove all the punctuations and change the string to array and count the number of words in the array
@@ -918,7 +918,7 @@ const webTechs = [
    ["HTML", "CSS", "JS", "React", "Redux", "Node", "Express", "MongoDB"]
    ```
 
-##### Exercise: Level 3
+##### Exercise: Level 3 Beginner(Medium+)
 
 1. The following is an array of 10 students ages:
    `js const ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24] ` - Sort the array and find the min and max age - Find the median age(one middle item or two middle items divided by two) - Find the average age(all items divided by number of items) - Find the range of the ages(max minus min) - Compare the value of (min - average) and (max - average), use _abs()_ method
