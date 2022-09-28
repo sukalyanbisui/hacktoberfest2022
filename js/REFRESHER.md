@@ -204,7 +204,7 @@ console.log('Hello, World!')
 
 _Your main.js file should be below all other scripts_. It is very important to remember this.
 
-![Multiple Script](../images/multiple_script.png)
+
 
 ### 1. Variables
 
@@ -219,8 +219,6 @@ const PI = 3.14 // Not allowed to reassign PI to a new value
 ```
 
 ### 2. Data types
-
-If you do not feel comfortable with data types check the following [link](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md)
 
 ### 3. Arrays
 
@@ -340,7 +338,7 @@ console.log(words)
 
 We access each element in an array using their index. An array index starts from 0. The picture below clearly shows the index of each element in the array.
 
-![arr index](../images/array_index.png)
+
 
 ```js
 const fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -874,19 +872,7 @@ const webTechs = [
 8. Print the number of companies in the array
 9. Print the first company, middle and last company
 10. Print out each company
-11. Change each company name to uppercase one by one and print them out
-12. Print the array like as a sentence: Facebook, Google, Microsoft, Apple, IBM,Oracle and Amazon are big IT companies.
-13. Check if a certain company exists in the itCompanies array. If it exist return the company else return a company is _not found_
-14. Filter out companies which have more than one 'o' without the filter method
-15. Sort the array using _sort()_ method
-16. Reverse the array using _reverse()_ method
-17. Slice out the first 3 companies from the array
-18. Slice out the last 3 companies from the array
-19. Slice out the middle IT company or companies from the array
-20. Remove the first IT company from the array
-21. Remove the middle IT company or companies from the array
-22. Remove the last IT company from the array
-23. Remove all IT companies
+
 
 ##### Exercise: Level 2
 
