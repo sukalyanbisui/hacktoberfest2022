@@ -20,7 +20,8 @@ In this repository, you can contribute by solving the excercises or issues that 
 
 
 
-delete-https://github.com/life-sync/Python
+ref delete-https://github.com/life-sync/Python
+https://github.com/mdn/interactive-examples/blob/main/CSS-Example-Style-Guide.md
 
 
 
