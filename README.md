@@ -1,5 +1,28 @@
 # hacktoberfest-2022
 
+<div align="center">
+
+<img src= "https://github.com/SJ-Kumar/hacktoberfest2022/blob/master/.github/images/Email%20Banners-Dark.png" width= "1200"/>
+
+<br> <br>
+<a href="https://github.com/SJ-Kumar/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SJ-Kumar/hacktoberfest2022?color=2b9348"></a>
+<img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/SJ-Kumar" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
+<a href="https://github.com/SJ-Kumar/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/SJ-Kumar/hacktoberfest2022" alt="Pull Requests Badge"/></a>
+
+<h4> You can make folders of programming languages and also you can contribute in the repo's below.</h4>
+
+<h4> Feel free to contribute to this repo by creating and editing little programs in any programming language and make different folders for the code you want to contribute. </h4>
+
+If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
+  
+Check out `good-first-issues` for contributing [here](https://github.com/SJ-Kumar/hacktoberfest2022/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
+</div>
+
+
+
 👋 I would like to welcome all the Hacktoberfest 2022 participants.
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub. Hacktoberfest is open to everyone in the global community!
