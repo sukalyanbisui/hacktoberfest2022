@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src= "https://github.com/SJ-Kumar/hacktoberfest2022/blob/master/.github/images/Email%20Banners-Dark.png" width= "1200"/>
-
 <br> <br>
 <a href="https://github.com/SJ-Kumar/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SJ-Kumar/hacktoberfest2022?color=2b9348"></a>
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
