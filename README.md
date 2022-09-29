@@ -37,6 +37,8 @@ https://github.com/SJ-Kumar/Github_Basics
 
 * When done, make sure your PR description shows a screenshot of the newly implemented feature so that person who will review your code will not need to run your code locally.
 
+* Once your PR is approved (with label of "Hacktoberfest-Accepted") your name will be automatically listed in the shiny super "contributors"list 😎
+
 In this repository, you can contribute by solving the excercises or issues that exist for respective chapters. Its a refresher cum challenge task. What are waiting for?
 
 
