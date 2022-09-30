@@ -21,3 +21,5 @@ Important:
 A PR that doesn't solve an issue will NOT be accepted. Multiple people are allowed to work on the same issue, however I will close an issue after more than 5 people have solved it. 
 
 Open PRs only after 1st october otherwise it wont count.
+
+## You can create a folder with your name at this level and commit.
