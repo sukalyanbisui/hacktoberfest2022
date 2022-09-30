@@ -1,14 +1,12 @@
 # hacktoberfest-2022
 
 <div align="center">
-
-<br> <br>
+<br>
 <a href="https://github.com/SJ-Kumar/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SJ-Kumar/hacktoberfest2022?color=2b9348"></a>
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/SJ-Kumar" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 <a href="https://github.com/SJ-Kumar/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/SJ-Kumar/hacktoberfest2022" alt="Pull Requests Badge"/></a>
-
 
 If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
   
