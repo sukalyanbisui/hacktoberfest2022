@@ -22,4 +22,4 @@ A PR that doesn't solve an issue will NOT be accepted. Multiple people are allow
 
 Open PRs only after 1st october otherwise it wont count.
 
-## You can create a folder with your name at this level and commit.
+## After you complete any of the selected excercise, you can create a folder with your name at the same level and commit.
