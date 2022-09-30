@@ -14,11 +14,6 @@ Check out `good-first-issues` for contributing [here](https://github.com/SJ-Kuma
 
 </div>
 
-<br>
-<br>
-<br>
-
-
 👋 I would like to welcome all the Hacktoberfest 2022 participants.
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub. Hacktoberfest is open to everyone in the global community!
