@@ -36,7 +36,7 @@ All that one must do is contribute to any open source project and send atleast 4
 This repository is for beginners and first timers. 
 Just <a href="https://github.com/SJ-Kumar/hacktoberfest2022/blob/main/CREATING_A_PR.md">follow these steps</a> to fork->clone->edit->PR a request. <br>
 or <br>
-<br>You can refer to detailed steps in the following link:
+You can refer to detailed steps in the following link:
 https://github.com/SJ-Kumar/Github_Basics
 
 What are you still thinking about??
@@ -74,8 +74,7 @@ In this repository, you can contribute by solving the excercises or issues that 
 
 
 
-ref delete-https://github.com/life-sync/Python
-https://github.com/mdn/interactive-examples/blob/main/CSS-Example-Style-Guide.md
+
 
 
 
