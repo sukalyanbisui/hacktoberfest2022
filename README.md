@@ -33,8 +33,15 @@ All that one must do is contribute to any open source project and send atleast 4
 * Setup your dev environment.
 
 ## New to git and git hub?
-This repository is for beginners and first timers. Just follow these steps to fork->clone->edit->PR a request.
+This repository is for beginners and first timers. 
+Just <a href="https://github.com/SJ-Kumar/hacktoberfest2022/blob/main/CREATING_A_PR.md">follow these steps</a> to fork->clone->edit->PR a request. <br>
+or <br>
+<br>You can refer to detailed steps in the following link:
 https://github.com/SJ-Kumar/Github_Basics
+
+What are you still thinking about??
+
+**Note**: It just takes **5** mins to fork/clone/edit(..based on task) and create a pull request. 
 
 ## 👉 Picking issues
 * Recommend setting up your dev environment before signing up for any issue.
