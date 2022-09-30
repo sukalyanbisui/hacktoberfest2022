@@ -1,3 +1,8 @@
+### Click <a href="https://github.com/SJ-Kumar/hacktoberfest2022/blob/main/js/REFRESHER.md">Javascript Tasks-Refer to Excercise</a> to learn the basics of Javascript and contribute to the tasks.
+
+![image](https://user-images.githubusercontent.com/90379900/193323803-aebf8ac8-19e3-445f-ac9f-c8bbd1216816.png)
+
+
 This is a special repository for basic Javascript challenges for Hacktoberfest 2022. I will keep adding issues which you are free to solve and raise a PR. 
 
 This is refresher cum challenge task. You can refresh the content from the Refresher.md and then try to solve the issues that are applicable to the respective folders.
